@@ -99,7 +99,9 @@ function Board() {
 const Tiktacktoe = () => {
     
     return(
-        <div className="tic1"><center><h1>Tik Tac Toe</h1></center></div>
+        <div >
+          {/* <center><h1>Tik Tac Toe</h1></center> */}
+        </div>
     )
 }
 
