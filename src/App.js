@@ -6,7 +6,7 @@ import Tiktacktoe, { Game } from "./component/Tiktacktoe";
 function App() {
   return (
     <div>
-    <h1>HI</h1>
+    <center><h1>TIK TAC TOE</h1></center>
     <div className="App">
       <center>
       <Tiktacktoe/>
